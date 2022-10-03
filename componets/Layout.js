@@ -1,11 +1,14 @@
 import styles from '../styles/Layout.module.css'
 
-const name = (props) => {
+const Layout = ({ children }) => {
     return (
         <div className={styles.container}>
+            <main className={styles.main}>
+                {children}
+            </main>
 
         </div>
     )
 };
 
-export default name;
+export default Layout;
