@@ -4,12 +4,10 @@ import Header from './Header'
 const Layout = ({ children }) => {
     return (
         <div className={styles.container}>
-            <main className={styles.main}>
+            <main>
                 <Header />
                 {children}
             </main>
-
-
         </div>
     )
 };

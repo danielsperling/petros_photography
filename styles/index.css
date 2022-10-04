@@ -1,0 +1,25 @@
+.main_menu {
+    /* display: flex;
+    flex-direction: row; */
+    font-size: 11px;
+    line-height: 17px;
+    margin-top: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    width: 250px;
+    left: 0%;
+}
+
+.gallery {
+    height: 500px;
+    width: 500px;
+}
+
+/* #Image {
+    height: fit-content;
+    width: fit-content;
+} */
