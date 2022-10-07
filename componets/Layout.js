@@ -1,11 +1,14 @@
 import styles from '../styles/Layout.module.css'
 import Header from './Header'
+import Navbar from './Navbar'
 
 const Layout = ({ children }) => {
     return (
         <div className={styles.container}>
-            <main>
-                <Header />
+            <div className='header'> <h1>Nikolas - Petros Androbik</h1> </div>
+
+            <main className={styles.main}>
+                <Navbar />
                 {children}
             </main>
         </div>
