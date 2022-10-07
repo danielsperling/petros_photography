@@ -6,7 +6,6 @@ const Layout = ({ children }) => {
     return (
         <div className={styles.container}>
             <div className='header'> <h1>Nikolas - Petros Androbik</h1> </div>
-
             <main className={styles.main}>
                 <Navbar />
                 {children}
