@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Layout.module.css'
 import first from '../public/first.jpg'
 
 
@@ -11,6 +10,7 @@ export default function Home() {
     <div className='main_menu'>
       <Head>
         <title> androbik Photography </title>
+
       </Head>
 
       <div className='gallery'>
