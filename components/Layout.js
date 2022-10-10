@@ -1,6 +1,6 @@
-import { Carousel } from 'react-bootstrap';
 import styles from '../styles/Layout.module.css'
 import Navbar from './Navbar'
+import Carousel from './Carousel'
 
 const Layout = ({ children }) => {
   return (
