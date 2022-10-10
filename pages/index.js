@@ -13,9 +13,9 @@ export default function Home() {
 
       </Head>
 
-      <div className='gallery'>
+      {/* <div className='gallery'>
         <Image src={first} />
-      </div>
+      </div> */}
 
     </div >
 
