@@ -3,8 +3,12 @@ body {
   padding-right: 30px;
   padding-left: 30px;
   margin: 0;
+  font-size: 11px !important;
+  line-height: 17px !important;
+  list-style: none !important;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
 }
 
 a {
@@ -14,4 +18,18 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+ ul {
+  list-style-type: none;
+  list-style:none !important;
+  text-decoration: none;
+  color: black;
+  
+
+}
+
+li:hover {
+  columns: red !important;
+
 }
