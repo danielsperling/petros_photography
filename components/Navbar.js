@@ -11,6 +11,8 @@ const Navbar = (props) => {
           <a>Home</a>
         </Link>
       </li>
+      <br></br>
+ 
       <li>
         <Link href="/vice">
           <a>German Bodybuilding - Vice</a>
