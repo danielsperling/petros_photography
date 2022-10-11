@@ -9,11 +9,10 @@ const Layout = ({ children }) => {
       <main className={styles.items_container}>
         <div className={styles.navbar_container}>
           <Navbar />
-          {children}
         </div>
         <div className={styles.carousel_container}>
           <div className={styles.carousel}>
-            <Carousel />
+          {children}
           </div>
         </div>
       </main>

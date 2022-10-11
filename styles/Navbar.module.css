@@ -1,6 +1,13 @@
 .menu {
     min-height: 100vh;
-    width: 250px;
-    font-size: 11px;
-    line-height: 17px;
+    width: 350px !important;
+    margin-top: 50px;
+    list-style-type: none;
+   
+}
+
+#ul {
+    list-style-type: none;
+    list-style:none !important;
+
 }

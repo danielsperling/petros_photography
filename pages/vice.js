@@ -1,23 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import first from '../public/first.jpg'
 import Carousel from 'react-bootstrap/Carousel';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import carousel from '../styles/Carousel.module.css'
 
 
-
-export default function Home() {
-  return (
-
-    <div className='main_menu'>
-      <Head>
-        <title> androbik Photography </title>
-      </Head>
-
-      <Carousel
+function UncontrolledExample() {
+	return (
+		<Carousel
 			slide={false}
-			fade
 			className={carousel.container}
 			indicators={false}
 		>
@@ -63,10 +52,6 @@ export default function Home() {
 			</Carousel.Item>
 		</Carousel>
 	);
-
-
-    </div >
-  )
 }
 
-
+export default UncontrolledExample;
