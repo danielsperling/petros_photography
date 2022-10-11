@@ -6,12 +6,14 @@ import carousel from '../styles/Carousel.module.css'
 function UncontrolledExample() {
 	return (
 		<Carousel
+			slide={false}
 			fade
-			className={carousel.images}
+			className={carousel.container}
+			indicators={false}
 		>
 			<Carousel.Item>
 				<img
-					// className={carousel.images}
+					className={carousel.image}
 					src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80"
 					alt="First slide"
 				/>
@@ -21,11 +23,10 @@ function UncontrolledExample() {
 				</Carousel.Caption>
 			</Carousel.Item>
 			<Carousel.Item
-			// className={carousel.images}
 			>
 				<img
-					// className={carousel.images}
-					src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80"
+					className={carousel.image}
+					src="https://images.unsplash.com/photo-1665406857456-0275f9517752?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
 					alt="Second slide"
 				/>
 
@@ -35,11 +36,11 @@ function UncontrolledExample() {
 				</Carousel.Caption>
 			</Carousel.Item>
 			<Carousel.Item
-			// className={carousel.images}
+			// className={carousel.image}
 			>
 				<img
-					// className={carousel.images}
-					src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80"
+					className={carousel.image}
+					src="https://images.unsplash.com/photo-1664640525110-69d0ab715725?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80"
 					alt="Third slide"
 				/>
 

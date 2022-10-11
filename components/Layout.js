@@ -6,10 +6,16 @@ const Layout = ({ children }) => {
   return (
     <div className={styles.container}>
       <div className='header'> <h1>Nikolas - Petros Androbik</h1> </div>
-      <main className={styles.main}>
-        <Navbar />
-        {children}
-        <Carousel />
+      <main className={styles.items_container}>
+        <div className={styles.navbar_container}>
+          <Navbar />
+          {children}
+        </div>
+        <div className={styles.carousel_container}>
+          <div className={styles.carousel}>
+            <Carousel />
+          </div>
+        </div>
       </main>
     </div>
   )
