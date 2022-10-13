@@ -13,7 +13,7 @@ function UncontrolledExample() {
 			<Carousel.Item>
 				<img
 					className={carousel.image}
-					src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80"
+					src="../vice/20-min.jpg"
 					alt="First slide"
 				/>
 				<Carousel.Caption>
