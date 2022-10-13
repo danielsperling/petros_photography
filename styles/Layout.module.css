@@ -4,6 +4,7 @@
   position: absolute;
   width: 100%;
   display: inline-block;
+  padding-top: 100px;
 }
 
 .items_container {
