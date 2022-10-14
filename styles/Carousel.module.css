@@ -10,3 +10,8 @@
   margin: auto; 
   display: block;
 }
+
+.carousel-control-prev {
+  left: 350px !important;
+}
+

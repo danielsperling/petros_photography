@@ -9,7 +9,18 @@ padding-right: 200px;
     padding-left: 100px;
 }
 
-/* #Image {
-    height: fit-content;
-    width: fit-content;
-} */
+
+.carousel-control-next {
+    right: 350px;
+    background-color: red;
+    bottom: -20px !important;
+    top: 500px !important;
+    
+  }
+
+  .carousel-control-prev {
+    left: 350px;
+    background-color: green;  
+    bottom: -20px !important;
+    top: 500px !important;
+  }
