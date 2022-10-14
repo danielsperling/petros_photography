@@ -16,7 +16,7 @@ export default function Home() {
 	  <Carousel
 	  		className={carousel.container}
 			slide={false}
-			controls={false}
+			controls={true}
 			touch={true}
 			
 		>

@@ -5,6 +5,7 @@
   width: 100%;
   display: inline-block;
   padding-top: 100px;
+  
 }
 
 .items_container {
@@ -13,11 +14,14 @@
   flex: 1;
   display: flex;
   flex-direction: row;
+  
 }
 
 .navbar_container {
   display: flex;
   justify-content: center;
+  font-size: 15px !important;
+  line-height: 17px !important;
 }
 
 .carousel_container {
