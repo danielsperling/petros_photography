@@ -33,7 +33,6 @@ function UncontrolledExample() {
 					alt="First slide"
 				/>
 			</Carousel.Item>
-
 			<Carousel.Item>
 				<img
 					className={carousel.image}
