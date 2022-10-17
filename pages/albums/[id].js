@@ -41,11 +41,22 @@ const gallery = {
         "../vice/44.jpg"
     ],
     "medusa": [
-        "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80",
-        "https://images.unsplash.com/photo-1434754205268-ad3b5f549b11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80",
-        "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-
-    ]
+        "../medusa/1.jpg",
+        "../medusa/2.jpg",
+        "../medusa/3.jpg",
+        "../medusa/4.jpg",
+        "../medusa/5.jpg",
+        "../medusa/6.jpg",
+        "../medusa/7.jpg",
+        "../medusa/8.jpg",
+        "../medusa/9.jpg",
+        "../medusa/10.jpg",
+        "../medusa/11.jpg",
+        "../medusa/12.jpg",
+        "../medusa/13.jpg",
+        "../medusa/14.jpg",
+        "../medusa/15.jpg",
+        ]
 }
 
 const Album = () => {
