@@ -1,6 +1,5 @@
 import styles from '../styles/Layout.module.css'
 import Navbar from './Navbar'
-import Carousel from './Carousel'
 
 const Layout = ({ children }) => {
   return (
@@ -12,7 +11,7 @@ const Layout = ({ children }) => {
         </div>
         <div className={styles.carousel_container}>
           <div className={styles.carousel}>
-          {children}
+            {children}
           </div>
         </div>
       </main>
