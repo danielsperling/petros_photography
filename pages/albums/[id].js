@@ -56,8 +56,45 @@ const gallery = {
         "../medusa/13.jpg",
         "../medusa/14.jpg",
         "../medusa/15.jpg",
+        ],
+    
+    "dress_to_kill": [
+        "../dress_to_kill/1.jpg",
+        "../dress_to_kill/2.jpg",
+        "../dress_to_kill/3.jpg",
+        "../dress_to_kill/4.jpg",
+        "../dress_to_kill/5.jpg",
+        "../dress_to_kill/6.jpg",
+        "../dress_to_kill/7.jpg",
+        "../dress_to_kill/8.jpg",
+        "../dress_to_kill/9.jpg",
+        "../dress_to_kill/10.jpg",
+        "../dress_to_kill/11.jpg",
+        "../dress_to_kill/12.jpg",
+        "../dress_to_kill/13.jpg",
+        "../dress_to_kill/14.jpg",
+        "../dress_to_kill/15.jpg",
+        "../dress_to_kill/16.jpg",
+        "../dress_to_kill/17.jpg",
+        "../dress_to_kill/18.jpg",
+        "../dress_to_kill/19.jpg",
+        "../dress_to_kill/20.jpg",
+        "../dress_to_kill/21.jpg",
+        "../dress_to_kill/22.jpg",
+        "../dress_to_kill/23.jpg",
+        "../dress_to_kill/24.jpg",
+        "../dress_to_kill/25.jpg",
+        "../dress_to_kill/26.jpg",
+        "../dress_to_kill/27.jpg",
+        "../dress_to_kill/28.jpg",
+        "../dress_to_kill/29.jpg",
+        "../dress_to_kill/30.jpg",
+        "../dress_to_kill/31.jpg",
         ]
+
 }
+
+
 
 const Album = () => {
     const router = useRouter()
