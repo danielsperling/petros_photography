@@ -72,7 +72,7 @@ export default Navbar;
 
 
 
-{/* <div className={navBar.menu}>
+<div className={navBar.menu}>
 
 <h2>Home</h2>
 <br />
@@ -89,4 +89,4 @@ export default Navbar;
 <h2>contact/order</h2>
 <h2> IG @adrobik</h2>
 
-</div> */}
+</div> 
