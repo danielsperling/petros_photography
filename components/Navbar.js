@@ -3,69 +3,69 @@ import Link from 'next/link'
 
 
 const Navbar = (props) => {
-    return (
+  return (
     <div className={navBar.menu}>
       <ul>
-      <li>
-        <Link href="/">
-          <a>Home</a>
-        </Link>
-      </li>
-      <br></br>
- 
-      <li>
-        <Link href="/vice">
-          <a>German Bodybuilding - Vice</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/medusa">
-          <a>Medusa - HUnger Magazine</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/dress_to_kill">
-          <a>Dress to Kill - OffTheRails Magazine</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/numero">
-          <a>Eagle Noir - Numero Berlin</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/contributor">
-          <a>The Edge - Contributor Magazine</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/dscene">
-          <a>I Dance Alone - Dscene Magazin</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/lookboock">
-          <a>YNRY - Lookboock</a>
-        </Link>
-      </li>
-      <br></br>
-      <br></br>
-      <li>
-        <Link href="/lookboock">
-          <a>contact/order</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/lookboock">
-          <a>IG @adrobik</a>
-        </Link>
-      </li>
+        <li>
+          <Link href="/">
+            <a>Home</a>
+          </Link>
+        </li>
+        <br></br>
 
-    </ul>
+        <li>
+          <Link href="/albums/vice">
+            <a>German Bodybuilding - Vice</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/medusa">
+            <a>Medusa - HUnger Magazine</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/dress_to_kill">
+            <a>Dress to Kill - OffTheRails Magazine</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/numero">
+            <a>Eagle Noir - Numero Berlin</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/contributor">
+            <a>The Edge - Contributor Magazine</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/dscene">
+            <a>I Dance Alone - Dscene Magazin</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/lookboock">
+            <a>YNRY - Lookboock</a>
+          </Link>
+        </li>
+        <br></br>
+        <br></br>
+        <li>
+          <Link href="/lookboock">
+            <a>contact/order</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/lookboock">
+            <a>IG @adrobik</a>
+          </Link>
+        </li>
+
+      </ul>
     </div>
 
 
-    )
+  )
 };
 
 export default Navbar;
