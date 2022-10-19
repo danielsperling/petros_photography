@@ -1,5 +1,7 @@
 import { useRouter } from "next/router"
 import { Carousel } from "react-bootstrap"
+import Image from 'next/image'
+
 import style from '../../styles/Carousel.module.css'
 
 
@@ -105,6 +107,7 @@ const Album = () => {
     }
 
     return <Carousel
+    key={Carousel.id}
         slide={false}
         fade
         className={style.container}
