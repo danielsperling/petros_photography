@@ -115,6 +115,7 @@ const Album = () => {
     > {gallery[id].map((picture) => {
         return <Carousel.Item>
             <img
+                key={galleryIds.key}
                 className={style.image}
                 src={picture}
                 alt="First slide"
