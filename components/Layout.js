@@ -9,8 +9,8 @@ const Layout = ({ children }) => {
         <div className={styles.navbar_container}>
           <Navbar />
         </div>
-        <div className={styles.carousel_container}>
-          <div className={styles.carousel}>
+        <div className={styles.carousel_container} key={picture.id}>
+          <div className={styles.carousel} key={picture.id}>
             {children}
           </div>
         </div>
