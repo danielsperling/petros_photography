@@ -79,7 +79,7 @@ const gallery = {
         "../medusa/12.jpg",
         "../medusa/13.jpg",
         "../medusa/14.jpg",
-        "../medusa/15.jpg",
+        "../medusa/15.jpg"
         ],
     
     "dress_to_kill": [
@@ -113,7 +113,7 @@ const gallery = {
         "../dress_to_kill/28.jpg",
         "../dress_to_kill/29.jpg",
         "../dress_to_kill/30.jpg",
-        "../dress_to_kill/31.jpg",
+        "../dress_to_kill/31.jpg"
         ],
 
         "vice_strip": [
@@ -164,7 +164,40 @@ const gallery = {
             "../lookbook/27.jpg",
             "../lookbook/29.jpg",
             "../lookbook/30.jpg",
-            "../lookbook/31.jpg",
+            "../lookbook/31.jpg"
+        ],
+    
+        "matilda": [
+            "../matilda/1.jpg",
+            "../matilda/2.jpg",
+            "../matilda/3.jpg",
+            "../matilda/4.jpg",
+            "../matilda/5.jpg",
+            "../matilda/6.jpg",
+            "../matilda/7.jpg",
+            "../matilda/8.jpg",
+            "../matilda/9.jpg",
+            "../matilda/10.jpg"
+        ],
+
+        "eagle_noir": [
+            "../eagle_noir/STEVE_1.jpg",
+            "../eagle_noir/STEVE_2.jpg",
+            "../eagle_noir/STEVE_3.jpg",
+            "../eagle_noir/STEVE_4.jpg",
+            "../eagle_noir/STEVE_7.jpg",
+            "../eagle_noir/STEVE_8.jpg",
+            "../eagle_noir/STEVE_9.jpg",
+            "../eagle_noir/STEVE_10.jpg",
+            "../eagle_noir/STEVE_10a.jpg",
+            "../eagle_noir/STEVE_14.jpg",
+            "../eagle_noir/STEVE_15.jpg",
+            "../eagle_noir/STEVE_17.jpg",
+            "../eagle_noir/STEVE_18.jpg",
+            "../eagle_noir/STEVE_19.jpg",
+            "../eagle_noir/STEVE_20.jpg",
+            "../eagle_noir/STEVE_21.jpg",
+            "../eagle_noir/STEVE_22aa.jpg"
         ]
 
 }

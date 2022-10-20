@@ -44,13 +44,13 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/albums/contributor">
-            <a>The Edge - Contributor Magazine</a>
+          <Link href="/albums/matilda">
+            <a>Matilda Little Jewellery Campaing</a>
           </Link>
         </li>
         <li>
-          <Link href="/albums/dscene">
-            <a>I Dance Alone - Dscene Magazin</a>
+          <Link href="/albums/eagle_noir">
+            <a>Eagle Noir - Numero Berlin</a>
           </Link>
         </li>
         {/* <li>
