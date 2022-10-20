@@ -39,7 +39,7 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/albums/lookboock">
+          <Link href="/albums/lookbook">
             <a>YNRY - Lookboock</a>
           </Link>
         </li>
