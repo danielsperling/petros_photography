@@ -250,7 +250,7 @@ const gallery = {
         ],
 
         "dscene": [
-            "../dscene/1A.jpg",
+            "../dscene/1.jpg",
             "../dscene/2.jpg",
             "../dscene/3.jpg",
             "../dscene/4.jpg",
@@ -266,6 +266,22 @@ const gallery = {
             "../dscene/14.jpg",
             "../dscene/15.jpg",
             "../dscene/16A.jpg"
+
+        ],
+
+    "cake":[
+            "../cake/A.jpg",
+            "../cake/B.jpg",
+            "../cake/C.jpg",
+            "../cake/D.jpg",
+            "../cake/E.jpg",
+            "../cake/F.jpg",
+            "../cake/G.jpg",
+            "../cake/H.jpg",
+            "../cake/J.jpg",
+            "../cake/K.jpg",
+            "../cake/L.jpg",
+            "../cake/TIA_MAMIYA_4aaa.jpg",
 
         ]
 

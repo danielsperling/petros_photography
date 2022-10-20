@@ -66,7 +66,12 @@ const Navbar = (props) => {
         </li>
         <li>
           <Link href="/albums/dscene">
-            <a>I dance alone - Dscene Magazine</a>
+            <a>I Dance Alone - Dscene Magazine</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/cake">
+            <a>Tia M- Cake Magazine</a>
           </Link>
         </li>
 
