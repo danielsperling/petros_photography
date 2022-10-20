@@ -14,13 +14,18 @@ const Navbar = (props) => {
         <br></br>
 
         <li>
-          <Link href="/albums/vice">
-            <a>German Bodybuilding - Vice</a>
+          <Link href="/albums/vogue">
+            <a>ES iST OK/Mensch - Vogue Germany</a>
           </Link>
         </li>
         <li>
           <Link href="/albums/medusa">
             <a>Medusa - HUnger Magazine</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/albums/vice">
+            <a>German Bodybuilding - Vice</a>
           </Link>
         </li>
         <li>
