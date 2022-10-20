@@ -282,7 +282,22 @@ const gallery = {
             "../cake/K.jpg",
             "../cake/L.jpg",
             "../cake/TIA_MAMIYA_4aaa.jpg",
-
+        ],
+    
+    "aperitif":[
+            "../aperitif/A.jpg",
+            "../aperitif/B.jpg",
+            "../aperitif/Ba.jpg",
+            "../aperitif/C.jpg",
+            "../aperitif/D.jpg",
+            "../aperitif/E.jpg",
+            "../aperitif/F.jpg",
+            "../aperitif/G.jpg",
+            "../aperitif/H.jpg",
+            "../aperitif/I.jpg",
+            "../aperitif/J.jpg",
+            "../aperitif/K.jpg",
+            "../aperitif/Z.jpg",
         ]
 
 }
