@@ -39,6 +39,11 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
+          <Link href="/albums/lookboock">
+            <a>YNRY - Lookboock</a>
+          </Link>
+        </li>
+        <li>
           <Link href="/albums/contributor">
             <a>The Edge - Contributor Magazine</a>
           </Link>
@@ -48,15 +53,15 @@ const Navbar = (props) => {
             <a>I Dance Alone - Dscene Magazin</a>
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/albums/lookboock">
             <a>YNRY - Lookboock</a>
           </Link>
-        </li>
+        </li> */}
         <br></br>
         <br></br>
         <li>
-          <Link href="/lookboock">
+          <Link href="/">
             <a>contact/order</a>
           </Link>
         </li>
