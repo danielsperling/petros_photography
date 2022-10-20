@@ -165,6 +165,19 @@ const gallery = {
             "../lookbook/29.jpg",
             "../lookbook/30.jpg",
             "../lookbook/31.jpg",
+        ],
+    
+        "matilda": [
+            "../matilda/1.jpg",
+            "../matilda/2.jpg",
+            "../matilda/3.jpg",
+            "../matilda/4.jpg",
+            "../matilda/5.jpg",
+            "../matilda/6.jpg",
+            "../matilda/7.jpg",
+            "../matilda/8.jpg",
+            "../matilda/9.jpg",
+            "../matilda/10.jpg"
         ]
 
 }
