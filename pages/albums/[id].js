@@ -6,6 +6,28 @@ import style from '../../styles/Carousel.module.css'
 
 
 const gallery = {
+    "vogue":[
+        "../vogue/A.jpg",
+        "../vogue/B.jpg",
+        "../vogue/C.jpg",
+        "../vogue/D.jpg",
+        "../vogue/E.jpg",
+        "../vogue/F.jpg",
+        "../vogue/G.jpg",
+        "../vogue/H.jpg",
+        "../vogue/I.jpg",
+        "../vogue/J.jpg",
+        "../vogue/K.jpg",
+        "../vogue/L.jpg",
+        "../vogue/N.jpg",
+        "../vogue/O.jpg",
+        "../vogue/P.jpg",
+        "../vogue/Q.jpg",
+        "../vogue/R.jpg",
+        "../vogue/S.jpg",
+        "../vogue/T.jpg"
+    ],
+
     "vice": [
         "../vice/0.jpg",
         "../vice/1.jpg",
