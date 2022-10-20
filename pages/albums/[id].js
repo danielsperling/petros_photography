@@ -200,7 +200,8 @@ const gallery = {
             "../eagle_noir/STEVE_22aa.jpg"
         ],
 
-        "dress_to_kill": [
+        "pandaland": [
+
             "../pandaland/PANDALAND_1.jpg",
             "../pandaland/PANDALAND_2.jpg",
             "../pandaland/PANDALAND_3.jpg",
@@ -222,6 +223,32 @@ const gallery = {
             "../pandaland/PANDALAND_19.jpg",
             "../pandaland/PANDALAND_20.jpg",
             ],
+
+        "edge": [
+            "../edge/Nikolas_Androbik_01.jpg",
+            "../edge/Nikolas_Androbik_02.jpg",
+            "../edge/Nikolas_Androbik_04.jpg",
+            "../edge/Nikolas_Androbik_05.jpg",
+            "../edge/Nikolas_Androbik_05B.jpg",
+            "../edge/Nikolas_Androbik_06.jpg",
+            "../edge/Nikolas_Androbik_07.jpg",
+            "../edge/Nikolas_Androbik_08.jpg",
+            "../edge/Nikolas_Androbik_09.jpg",
+            "../edge/Nikolas_Androbik_10.jpg",
+            "../edge/Nikolas_Androbik_12.jpg",
+            "../edge/Nikolas_Androbik_14.jpg",
+            "../edge/Nikolas_Androbik_15.jpg",
+            "../edge/Nikolas_Androbik_16.jpg",
+            "../edge/Nikolas_Androbik_17.jpg",
+            "../edge/Nikolas_Androbik_19a.jpg",
+            "../edge/Nikolas_Androbik_20.jpg",
+            "../edge/Nikolas_Androbik_21.jpg",
+            "../edge/Nikolas_Androbik_22.jpg",
+            "../edge/Nikolas_Androbik_23.jpg",
+            "../edge/Nikolas_Androbik_24.jpg",
+            "../edge/Nikolas_Androbik_25.jpg",
+            "../edge/Nikolas_Androbik_26.jpg",
+        ]
 
 }
 

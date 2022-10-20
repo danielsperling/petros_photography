@@ -57,7 +57,16 @@ const Navbar = (props) => {
           <Link href="/albums/pandaland">
             <a>Pandaland - Nasty Magazine</a>
           </Link>
+
+        </li>
+        <li>
+          <Link href="/albums/edge">
+            <a>The Edge - Contributor Magazine</a>
+          </Link>
+        </li>
+
         </li> 
+
         <br></br>
         <br></br>
         <li>
