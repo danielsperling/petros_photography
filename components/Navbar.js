@@ -34,8 +34,8 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/albums/numero">
-            <a>Eagle Noir - Numero Berlin</a>
+          <Link href="/albums/vice_strip">
+            <a>Stripperwars - Vice</a>
           </Link>
         </li>
         <li>
