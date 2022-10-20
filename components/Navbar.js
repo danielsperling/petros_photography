@@ -53,11 +53,17 @@ const Navbar = (props) => {
             <a>Eagle Noir - Numero Berlin</a>
           </Link>
         </li>
-        {/* <li>
-          <Link href="/albums/lookboock">
-            <a>YNRY - Lookboock</a>
+        <li>
+          <Link href="/albums/pandaland">
+            <a>Pandaland - Nasty Magazine</a>
           </Link>
-        </li> */}
+        </li>
+        <li>
+          <Link href="/albums/edge">
+            <a>The Edge - Contributor Magazine</a>
+          </Link>
+        </li>
+
         <br></br>
         <br></br>
         <li>
