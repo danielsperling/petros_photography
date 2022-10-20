@@ -229,7 +229,6 @@ const gallery = {
             "../edge/Nikolas_Androbik_02.jpg",
             "../edge/Nikolas_Androbik_04.jpg",
             "../edge/Nikolas_Androbik_05.jpg",
-            "../edge/Nikolas_Androbik_05B.jpg",
             "../edge/Nikolas_Androbik_06.jpg",
             "../edge/Nikolas_Androbik_07.jpg",
             "../edge/Nikolas_Androbik_08.jpg",
@@ -247,7 +246,27 @@ const gallery = {
             "../edge/Nikolas_Androbik_23.jpg",
             "../edge/Nikolas_Androbik_24.jpg",
             "../edge/Nikolas_Androbik_25.jpg",
-            "../edge/Nikolas_Androbik_26.jpg",
+            "../edge/Nikolas_Androbik_26.jpg"
+        ],
+
+        "dscene": [
+            "../dscene/1A.jpg",
+            "../dscene/2.jpg",
+            "../dscene/3.jpg",
+            "../dscene/4.jpg",
+            "../dscene/5.jpg",
+            "../dscene/6.jpg",
+            "../dscene/7.jpg",
+            "../dscene/8.jpg",
+            "../dscene/9.jpg",
+            "../dscene/10.jpg",
+            "../dscene/11.jpg",
+            "../dscene/12.jpg",
+            "../dscene/13.jpg",
+            "../dscene/14.jpg",
+            "../dscene/15.jpg",
+            "../dscene/16A.jpg"
+
         ]
 
 }

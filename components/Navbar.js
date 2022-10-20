@@ -64,8 +64,11 @@ const Navbar = (props) => {
             <a>The Edge - Contributor Magazine</a>
           </Link>
         </li>
-
-        </li> 
+        <li>
+          <Link href="/albums/dscene">
+            <a>I dance alone - Dscene Magazine</a>
+          </Link>
+        </li>
 
         <br></br>
         <br></br>
