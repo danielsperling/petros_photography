@@ -74,6 +74,11 @@ const Navbar = (props) => {
             <a>Tia M- Cake Magazine</a>
           </Link>
         </li>
+        <li>
+          <Link href="/albums/aperitif">
+            <a>Volee - Aperitif Naturel</a>
+          </Link>
+        </li>
 
         <br></br>
         <br></br>
