@@ -198,7 +198,30 @@ const gallery = {
             "../eagle_noir/STEVE_20.jpg",
             "../eagle_noir/STEVE_21.jpg",
             "../eagle_noir/STEVE_22aa.jpg"
-        ]
+        ],
+
+        "dress_to_kill": [
+            "../pandaland/PANDALAND_1.jpg",
+            "../pandaland/PANDALAND_2.jpg",
+            "../pandaland/PANDALAND_3.jpg",
+            "../pandaland/PANDALAND_4.jpg",
+            "../pandaland/PANDALAND_5.jpg",
+            "../pandaland/PANDALAND_6.jpg",
+            "../pandaland/PANDALAND_7.jpg",
+            "../pandaland/PANDALAND_8.jpg",
+            "../pandaland/PANDALAND_9.jpg",
+            "../pandaland/PANDALAND_10.jpg",
+            "../pandaland/PANDALAND_11.jpg",
+            "../pandaland/PANDALAND_12.jpg",
+            "../pandaland/PANDALAND_13.jpg",
+            "../pandaland/PANDALAND_14.jpg",
+            "../pandaland/PANDALAND_15.jpg",
+            "../pandaland/PANDALAND_16.jpg",
+            "../pandaland/PANDALAND_17.jpg",
+            "../pandaland/PANDALAND_18.jpg",
+            "../pandaland/PANDALAND_19.jpg",
+            "../pandaland/PANDALAND_20.jpg",
+            ],
 
 }
 
