@@ -24,16 +24,21 @@ a:hover {
   box-sizing: border-box;
 }
 
- ul {
+ul {
   list-style-type: none;
-  list-style:none !important;
+  list-style: none !important;
   text-decoration: none;
   color: black;
-  
+
 
 }
 
 li:hover {
   columns: red !important;
 
+}
+
+h5 {
+  font-size: 11px;
+  font-weight: 200;
 }

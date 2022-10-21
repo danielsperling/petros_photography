@@ -4,17 +4,18 @@ import Navbar from './Navbar'
 const Layout = ({ children }) => {
   return (
     <div className={styles.container}>
-      <div className='header'> <h1>Nikolas - Petros Androbik</h1> </div>
+      <div className={styles.header}> <h1>Nikolas - Petros Androbik</h1> </div>
       <main className={styles.items_container}>
         <div className={styles.navbar_container}>
           <Navbar />
         </div>
         <div className={styles.carousel_container}>
-          <div className={styles.carousel}>
-            {children}
-          </div>
+          {children}
         </div>
       </main>
+      <footer className={styles.footer}>
+        <h5>NIKOLAS-PETROS PHOTOGRAPHY | all photos © nikolas-petros androbik</h5>
+      </footer>
     </div>
   )
 };

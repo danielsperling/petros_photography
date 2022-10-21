@@ -88,11 +88,10 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/lookboock">
-            <a>IG @adrobik</a>
+          <Link href="https://www.instagram.com/androbik/" rel="noopener noreferrer">
+            <a target="_blank">IG @adrobik</a>
           </Link>
         </li>
-
       </ul>
     </div>
 
@@ -106,19 +105,19 @@ export default Navbar;
 
 <div className={navBar.menu}>
 
-<h2>Home</h2>
-<br />
-<h2>German Bodybuilding - Vice</h2>
-<h2>Medusa - HUnger Magazine</h2>
-<h2>Dress to Kill - OffTheRails Magazine</h2>
-<h2>Eagle Noir - Numero Berlin</h2>
-<h2>The Edge - Contributor Magazine</h2>
-<h2>I Dance Alone - Dscene Magazine</h2>
-<h2>YNRY - Lookboock </h2>
+  <h2>Home</h2>
+  <br />
+  <h2>German Bodybuilding - Vice</h2>
+  <h2>Medusa - HUnger Magazine</h2>
+  <h2>Dress to Kill - OffTheRails Magazine</h2>
+  <h2>Eagle Noir - Numero Berlin</h2>
+  <h2>The Edge - Contributor Magazine</h2>
+  <h2>I Dance Alone - Dscene Magazine</h2>
+  <h2>YNRY - Lookboock </h2>
 
-<br />
+  <br />
 
-<h2>contact/order</h2>
-<h2> IG @adrobik</h2>
+  <h2>contact/order</h2>
+  <h2> IG @adrobik</h2>
 
 </div> 
