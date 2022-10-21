@@ -7,7 +7,7 @@ const Navbar = (props) => {
     <div className={navBar.menu}>
       <ul>
         <li>
-          <Link href="/">
+          <Link href="/home">
             <a>Home</a>
           </Link>
         </li>
