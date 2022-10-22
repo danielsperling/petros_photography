@@ -12,7 +12,34 @@
 }
 
 
-@media (max-width:380px) {
+/* and (max-width:641px)
+and (max-width:481px) */
+
+@media (max-width:380px)  {
+  .container{
+    padding: 0 0 0 0;
+    position: absolute;
+    min-width: 68%;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translate(-50%,-50%);
+  }
+}
+
+@media (max-width:481px)  {
+  .container{
+    padding: 0 0 0 0;
+    position: absolute;
+    min-width: 68%;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translate(-50%,-50%);
+  }
+}
+
+@media (max-width:641px)  {
   .container{
     padding: 0 0 0 0;
     position: absolute;
