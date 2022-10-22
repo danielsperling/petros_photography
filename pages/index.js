@@ -47,7 +47,7 @@ const Home = () => {
 				slide={false}
 				fade
 				className={style.container}
-				indicators={false}
+				indicators={true}
 
 			> {gallery[id].map((picture) => {
 				return <Carousel.Item key={picture}>

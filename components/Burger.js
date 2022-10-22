@@ -8,7 +8,7 @@ function OffcanvasExample() {
   return (
     <>
       {[false, ].map((expand) => (
-        <Navbar key={expand}  expand={expand} className="mb-3">
+        <Navbar key={expand}  expand={expand} className="mb-3" >
           <Container fluid>
             <Navbar.Brand href="#"></Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
