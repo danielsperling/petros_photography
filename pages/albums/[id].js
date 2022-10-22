@@ -315,10 +315,10 @@ const Album = () => {
         slide={false}
         fade
         className={style.container}
-        indicators={true}
+        indicators={false}
 
     > {gallery[id].map((picture) => {
-        return <Carousel.Item key={picture} >
+        return <Carousel.Item key={picture}>
             <img
                 loading="lazy"
                 className={style.image}
