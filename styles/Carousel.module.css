@@ -10,3 +10,16 @@
   margin: auto;
   display: block;
 }
+
+
+@media (max-width:380px) {
+  .container{
+    padding: 0 0 0 0;
+    position: absolute;
+    min-width: 68%;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translate(-50%,-50%);
+  }
+}
