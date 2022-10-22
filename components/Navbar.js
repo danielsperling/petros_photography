@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const Navbar = (props) => {
   return (
-    <div className={navBar.menu}>
+    <div className={navBar.menu} >
       <ul>
         <li>
           <Link href="/">
