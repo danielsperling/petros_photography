@@ -44,6 +44,9 @@ h5 {
 }
 
 
+
+
+
 @media (max-width:380px) {
   h5 { font-size: 8px;
   font-weight: 400;}
@@ -51,14 +54,8 @@ h5 {
     right: 0; }
 } 
 
-@media (min-width:1281px) { 
-  .mb-3 { position: fixed;
-    right: 0;
-    display: none;
-  }
- }
 
-/* @media (max-width:480px) {
+@media (max-width:481px) {
   h5 { font-size: 8px;
   font-weight: 400;}
   .mb-3 { position: fixed;
@@ -66,10 +63,18 @@ h5 {
 
 }
 
-@media (max-width:600px) {
+@media (max-width:641px) {
   h5 { font-size: 8px;
     font-weight: 400;}
     .mb-3 { position: fixed;
       right: 0; }
 
-} */
+}
+
+
+@media (min-width:1281px) { 
+  .mb-3 { position: fixed;
+    right: 0;
+    display: none;
+  }
+ }
