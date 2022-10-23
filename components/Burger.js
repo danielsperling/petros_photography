@@ -20,7 +20,7 @@ function OffcanvasExample() {
               <Offcanvas.Header closeButton>
                 <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
                 <div className={navBar.menu}>
-      <ul>
+      <ul data-toggle="collapse" data-target="">
         <li>
           <Link href="/">
             <a>Home</a>
