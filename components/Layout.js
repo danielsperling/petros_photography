@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
         </div>
       </main>
       <footer className={styles.footer}>
-        <h5>NIKOLAS-PETROS PHOTOGRAPHY | all photos © nikolas-petros androbik</h5>
+        <h5>|| all photos © nikolas-petros androbik</h5>
       </footer>
     </div>
   )

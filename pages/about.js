@@ -40,7 +40,7 @@ export const About = (props) => {
                 <Image 
                   src="/about_page.jpg"
                   alt="Picture of the author"
-                  width={500}
+                  width={750}
                   height={500}   
                 />
           </div>
