@@ -68,7 +68,7 @@ const Navbar = (props) => {
 
         <li>
           <Link href="/albums/matilda">
-            <a>Matilda Little jewellery Campaing</a>
+            <a>Matilda Little jewellery Campaign</a>
           </Link>
         </li>
         <li>
@@ -96,7 +96,7 @@ const Navbar = (props) => {
         <br></br>
         <li>
   
-            <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">Contact</a>
+            <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact</a>
       
         </li>
         <li>
@@ -105,7 +105,7 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/" >
+          <Link href="/about" >
             <a>about</a>
           </Link>
         </li>
