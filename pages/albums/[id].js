@@ -297,6 +297,37 @@ const gallery = {
         "../aperitif/J.jpg",
         "../aperitif/K.jpg",
         "../aperitif/Z.jpg",
+    ],
+
+    "wrangler": [
+        "../wrangler/1.jpg",
+        "../wrangler/2.jpg",
+        "../wrangler/3.jpg",
+        "../wrangler/4.jpg",
+        "../wrangler/5.jpg",
+        "../wrangler/6.jpg",
+        "../wrangler/7.jpg",
+        "../wrangler/7a.jpg",
+        "../wrangler/10.jpg",
+        "../wrangler/10(1).jpg",
+        "../wrangler/11.jpg",
+        "../wrangler/12.jpg",
+        "../wrangler/13.jpg",
+        "../wrangler/14.jpg",
+        "../wrangler/15.jpg",
+        "../wrangler/16.jpg",
+        "../wrangler/18.jpg",
+        "../wrangler/20.jpg",
+        "../wrangler/21.jpg",
+        "../wrangler/22.jpg",
+        "../wrangler/24.jpg",
+        "../wrangler/25.jpg",
+        "../wrangler/26.jpg",
+        "../wrangler/27.jpg",
+        "../wrangler/28.jpg",
+        "../wrangler/29.jpg",
+        "../wrangler/30.jpg",
+        "../wrangler/31.jpg"
     ]
 
 }
