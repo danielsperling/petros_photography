@@ -44,7 +44,7 @@ const gallery = {
 
 const Home = () => {
 	// const router = useRouter()
-	const id = "vogue"
+	const id = "home"
 	const galleryIds = Object.keys(gallery)
 	if (!galleryIds.includes(id)) {
 		return <div>Gallery not found</div>
