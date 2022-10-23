@@ -8,7 +8,7 @@ const Navbar = (props) => {
       <ul>
         <li>
           <Link href="/">
-            <a>home</a>
+            <a>Home</a>
           </Link>
         </li>
         <br></br>
@@ -88,7 +88,7 @@ const Navbar = (props) => {
         </li> 
         <br></br>
         <li>
-          <Link href="/">
+          <Link href="/coming_soon">
             <a>GoSees (comming soon)</a>
           </Link>
         </li>
