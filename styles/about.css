@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    width: 350px;
+    padding-top: 112px;
+
+}
+
+.text h2 {
+    font-size: 10px !important;
+
+}
+
+.picture {
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
