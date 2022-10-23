@@ -41,7 +41,7 @@ const Home = () => {
 
 		<div className='main_menu'>
 			<Head>
-				<title> androbik Photography </title>
+				<title>Nikolas-Petros Androbik Photography </title>
 			</Head>
 			<Carousel
 				slide={false}
