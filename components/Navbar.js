@@ -65,7 +65,6 @@ const Navbar = (props) => {
         </li>
 
         <br></br>
-        <br></br>
 
         <li>
           <Link href="/albums/matilda">
@@ -82,11 +81,11 @@ const Navbar = (props) => {
             <a>Volée - Apéritif Naturell</a>
           </Link>
         </li>
-        {/* <li>
-          <Link href="/albums/wrangler_soulkissesarts">
+         <li>
+          <Link href="/albums/wrangler">
             <a>Wrangler x Soulkissesarts</a>
           </Link>
-        </li> */}
+        </li> 
         <br></br>
         <li>
           <Link href="/">
