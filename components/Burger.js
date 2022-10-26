@@ -1,9 +1,9 @@
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
+import Offcanvas from 'react-bootstrap/Offcanvas';
+import navBar from '../styles/Navbar.module.css';
 import Nav from 'react-bootstrap/Nav';
 
-import Container from 'react-bootstrap/Container';
- import Navbar from 'react-bootstrap/Navbar';
- import Offcanvas from 'react-bootstrap/Offcanvas';
- import navBar from '../styles/Navbar.module.css';
 
  function OffcanvasExample() {
    return (
@@ -105,7 +105,7 @@ import Container from 'react-bootstrap/Container';
          </li> 
          <br></br>
          <li>
-           <Nav.Link href="/">
+           <Nav.Link href="/coming_soon">
             GoSees (comming soon)
            </Nav.Link>
          </li>
@@ -113,7 +113,7 @@ import Container from 'react-bootstrap/Container';
          <br></br>
          <li>
          
-             {/* <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact</a> */}
+            <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact</a>
   
          </li>
          <li>
