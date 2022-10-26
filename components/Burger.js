@@ -1,144 +1,148 @@
+import Nav from 'react-bootstrap/Nav';
+
 import Container from 'react-bootstrap/Container';
-import Navbar from 'react-bootstrap/Navbar';
-import Offcanvas from 'react-bootstrap/Offcanvas';
-import navBar from '../styles/Navbar.module.css'
-import Link from 'next/link'
+ import Navbar from 'react-bootstrap/Navbar';
+ import Offcanvas from 'react-bootstrap/Offcanvas';
+ import navBar from '../styles/Navbar.module.css';
 
-function OffcanvasExample() {
-  return (
-    <>
-      {[false, ].map((expand) => (
-        <Navbar key={expand}  expand={expand} className="mb-3" >
-          <Container fluid>
-            <Navbar.Brand href="#"></Navbar.Brand>
-            <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
-            <Navbar.Offcanvas
-              id={`offcanvasNavbar-expand-${expand}`}
-              aria-labelledby={`offcanvasNavbarLabel-expand-${expand}`}
-              placement="end"
-            >
-              <Offcanvas.Header closeButton>
-                <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
-                <div className={navBar.menu}>
-      <ul data-toggle="collapse" data-target="">
-      <li>
-          <Link href="/">
-            <a>Home</a>
-          </Link>
-        </li>
-        <br></br>
+ function OffcanvasExample() {
+   return (
+     <>
+       {[false, ].map((expand) => (
+         <Navbar collapseOnSelect key={expand} expand={expand} className="mb-3">
+           <Container fluid>
+           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+           <Navbar.Collapse id="responsive-navbar-nav">
+           <Navbar.Offcanvas
+             id={`offcanvasNavbar-expand-${expand}`}
+             aria-labelledby={`offcanvasNavbarLabel-expand-${expand}`}
+             placement="end"
+             >
+            <Offcanvas.Header closeButton>
+                
+    <Nav className="me-auto">
+     <div className={navBar.menu}>
+       <ul>
+       <li>
+           <Nav.Link href="/">
+            Home
+           </Nav.Link>
+         </li>
+         <br></br>
 
-        <li>
-          <Link href="/albums/vogue">
-            <a>Es ist ok / Mensch - Vogue Germany</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/medusa">
-            <a>Medusa - Hunger TV</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/vice">
-            <a>Bodybuilding Championship Germany - Vice</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/vice_strip">
-            <a>Stripperwars Playgirls Mansion - Vice</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/dress_to_kill">
-            <a>Dress to Kill - Off The Rails Magazine</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/eagle_noir">
-            <a>Eagle noir - Numéro Berlin</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/pandaland">
-            <a>Pandaland - Nasty Magazine</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/edge">
-            <a>The edge - Contributor Magazine</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/dscene">
-            <a>I dance alone - Dscene Magazine</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/cake">
-            <a> Sundowner - Cake Magazine</a>
-          </Link>
-        </li>
-
-        <br></br>
-
-        <li>
-          <Link href="/albums/matilda">
-            <a>Matilda Little Jewellery</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/lookbook">
-            <a>YNRY Lookbook</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/aperitif">
-            <a>Volée Apéritif Naturell</a>
-          </Link>
-        </li>
          <li>
-          <Link href="/albums/wrangler">
-            <a>Wrangler x Soulkissesarts</a>
-          </Link>
-        </li> 
-        <br></br>
-        <li>
-          <Link href="/">
-            <a>GoSees (comming soon)</a>
-          </Link>
-        </li>
-        <br></br>
-        <br></br>
-        <li>
+           <Nav.Link href="/albums/vogue">
+            Es ist ok / Mensch - Vogue Germany
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/medusa">
+            Medusa - Hunger TV
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/vice">
+            Bodybuilding Championship Germany - Vice
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/vice_strip">
+            Stripperwars Playgirls Mansion - Vice
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/dress_to_kill">
+            Dress href Kill - Off The Rails Magazine
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/eagle_noir">
+            Eagle noir - Numéro Berlin
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/pandaland">
+            Pandaland - Nasty Magazine
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/edge">
+            The edge - Contributor Magazine
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/dscene">
+            I dance alone - Dscene Magazine
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/cake">
+             Sundowner - Cake Magazine
+           </Nav.Link>
+         </li>
+
+         <br></br>
+
+         <li>
+           <Nav.Link href="/albums/matilda">
+            Matilda Little Jewellery
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/lookbook">
+            YNRY Lookbook
+           </Nav.Link>
+         </li>
+         <li>
+           <Nav.Link href="/albums/aperitif">
+            Volée Apéritif Naturell
+           </Nav.Link>
+         </li>
+          <li>
+           <Nav.Link href="/albums/wrangler">
+            Wrangler x Soulkissesarts
+           </Nav.Link>
+         </li> 
+         <br></br>
+         <li>
+           <Nav.Link href="/">
+            GoSees (comming soon)
+           </Nav.Link>
+         </li>
+         <br></br>
+         <br></br>
+         <li>
+         
+             {/* <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact</a> */}
   
-            <a href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact</a>
-      
-        </li>
-        <li>
-          <Link href="https://www.instagram.com/androbik/" rel="noopener noreferrer">
-            <a target="_blank">instagram</a>
-          </Link>
-        </li>
-        <br></br>
-        <li>
-          <Link href="/about" >
-            <a>about</a>
-          </Link>
-        </li>
-      </ul>
-    </div>
-                </Offcanvas.Title>
-              </Offcanvas.Header>
-              <Offcanvas.Body>
+         </li>
+         <li>
+           <Nav.Link href="https:www.instagram.com/androbik/" rel="noopener noreferrer" target="_blank">
+             instagram
+           </Nav.Link>
+         </li>
+         <br></br>
+         <li>
+           <Nav.Link href="/about" >
+             about
+           </Nav.Link>
+         </li>
+       </ul>
+     </div>
+     </Nav>
+               </Offcanvas.Header>
+               <Offcanvas.Body>
             
 
-              </Offcanvas.Body>
-            </Navbar.Offcanvas>
-          </Container>
-        </Navbar>
-      ))}
-    </>
-  );
-}
+               </Offcanvas.Body>
+             </Navbar.Offcanvas>
+             </Navbar.Collapse>
+           </Container>
+          
+         </Navbar>
+       ))}
+     </>
+   );
+ }
 
-export default OffcanvasExample;
+ export default OffcanvasExample; 
