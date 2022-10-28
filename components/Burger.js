@@ -48,7 +48,7 @@ import Nav from 'react-bootstrap/Nav';
          <br></br>
          <br></br>
          <Nav.Link href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact </Nav.Link>
-         <Nav.Link href="https:www.instagram.com/androbik/"> instagram </Nav.Link>
+         <Nav.Link href="https://www.instagram.com/androbik/" rel="noopener noreferrer"  target="_blank"> instagram </Nav.Link>
          <br></br>
         <Nav.Link href="/about" > about </Nav.Link>
          
