@@ -43,6 +43,11 @@ h5 {
   font-weight: 200;
 }
 
+.navbar-nav {
+  --bs-nav-link-padding-x: 1;
+  --bs-nav-link-padding-y: 1rem;
+}
+
 
 
 
