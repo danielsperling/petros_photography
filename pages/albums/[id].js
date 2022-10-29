@@ -363,3 +363,4 @@ const Album = () => {
 
 export default Album
 
+document.addEventListener('contextmenu', event => event.preventDefault());
