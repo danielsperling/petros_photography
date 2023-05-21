@@ -43,10 +43,10 @@ const gallery = {
 }
 
 const Home = () => {
-	// const router = useRouter()
-	// useEffect(() => {
-	// 	disableRightClick();
-	//   }, []);
+	const router = useRouter()
+	useEffect(() => {
+		disableRightClick();
+	  }, []);
 	
 	const id = "home"
 	const galleryIds = Object.keys(gallery)
