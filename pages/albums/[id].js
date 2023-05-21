@@ -1,4 +1,5 @@
 import { useRouter } from "next/router"
+import Script from "next/script"
 import { Carousel } from "react-bootstrap"
 
 import style from '../../styles/Carousel.module.css'
@@ -328,6 +329,35 @@ const gallery = {
         "../wrangler/29.jpg",
         "../wrangler/30.jpg",
         "../wrangler/31.jpg"
+    ],
+    
+    "keyi_magazine": [
+        "../keyi_magazine/1.jpg",
+        "../keyi_magazine/2.jpg",
+        "../keyi_magazine/3.jpg",
+        "../keyi_magazine/4.jpg",
+        "../keyi_magazine/5.jpg",
+        "../keyi_magazine/6.jpg",
+        "../keyi_magazine/7.jpg",
+        "../keyi_magazine/8.jpg",
+        "../keyi_magazine/10.jpg",
+        "../keyi_magazine/11.jpg",
+        "../keyi_magazine/12.jpg",
+        "../keyi_magazine/13.jpg",
+        "../keyi_magazine/14.jpg",
+    ],
+
+    "fenyx": [
+        "../fenyx/1.jpg",
+        "../fenyx/2.jpg",
+        "../fenyx/3.jpg",
+        "../fenyx/4.jpg",
+        "../fenyx/6.jpg",
+        "../fenyx/7.jpg",
+        "../fenyx/8.jpg",
+        "../fenyx/9.jpg",
+        "../fenyx/11.jpg",
+        "../fenyx/All_0.jpg",
     ]
 
 }
@@ -363,4 +393,4 @@ const Album = () => {
 
 export default Album
 
-document.addEventListener('contextmenu', event => event.preventDefault());
+

@@ -1,8 +1,10 @@
 import Head from 'next/head'
+import { useEffect } from 'react';
 import { useRouter } from "next/router"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from "react-bootstrap"
 import style from '../styles/Carousel.module.css'
+import { disableRightClick } from '../utils/disableRightClick';
 
 // TODO: Add actual images
 const gallery = {
@@ -42,6 +44,10 @@ const gallery = {
 
 const Home = () => {
 	// const router = useRouter()
+	// useEffect(() => {
+	// 	disableRightClick();
+	//   }, []);
+	
 	const id = "home"
 	const galleryIds = Object.keys(gallery)
 	if (!galleryIds.includes(id)) {

@@ -6,14 +6,17 @@ import "../styles/about.css"
 import "../styles/coming_soon.css"
 
 
+
 function MyApp({ Component, pageProps }) {
   return (
 
     <Layout>
       <Component {...pageProps} />
+      
     </Layout>
+
   )
+
 }
 export default MyApp
-
 

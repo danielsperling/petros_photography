@@ -44,6 +44,11 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
+          <Link href="/albums/eagle_noir">
+            <a>Play till the Down - Keyi Magazine</a>
+          </Link>
+        </li>
+        <li>
           <Link href="/albums/pandaland">
             <a>Pandaland - Nasty Magazine</a>
           </Link>
@@ -60,9 +65,15 @@ const Navbar = (props) => {
         </li>
         <li>
           <Link href="/albums/cake">
-            <a> Sundowner - Cake Magazine</a>
+            <a> Last Sunbeams - Cake Magazine</a>
           </Link>
         </li>
+
+        <li>
+          <Link href="/albums/fenyx">
+            <a>Fenyx Campaing </a>
+          </Link>
+        </li>        
 
         <br></br>
 
