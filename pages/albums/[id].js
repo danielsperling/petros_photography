@@ -358,6 +358,14 @@ const gallery = {
         "../fenyx/9.jpg",
         "../fenyx/11.jpg",
         "../fenyx/All_0.jpg",
+    ],
+
+    "herbert": [
+        "../herbert/1.jpg",
+        "../herbert/2.jpg",
+        "../herbert/3.jpg",
+        "../herbert/4.jpg",
+        "../herbert/5.jpg"
     ]
 
 }

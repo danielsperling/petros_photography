@@ -69,13 +69,21 @@ const Navbar = (props) => {
           </Link>
         </li>
 
+
+        <br></br>
+
         <li>
           <Link href="/albums/fenyx">
             <a>Fenyx Campaing </a>
           </Link>
-        </li>        
+        </li>   
 
-        <br></br>
+        <li>
+          <Link href="/albums/herbert">
+            <a>Deine Hand - Herbet Grönemeyer </a>
+          </Link>
+        </li>        
+     
 
         <li>
           <Link href="/albums/matilda">
