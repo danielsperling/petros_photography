@@ -366,6 +366,22 @@ const gallery = {
         "../herbert/3.jpg",
         "../herbert/4.jpg",
         "../herbert/5.jpg"
+    ],
+
+    "denim": [
+        "../denim/1.jpg",
+        "../denim/2.jpg",
+        "../denim/3.jpg",
+        "../denim/4.jpg",
+        "../denim/5.jpg",
+        "../denim/6.jpg",
+        "../denim/7.jpg",
+        "../denim/8.jpg",
+        "../denim/9.jpg",
+        "../denim/10.jpg",
+        "../denim/11.jpg",
+        "../denim/12.jpg"
+
     ]
 
 }

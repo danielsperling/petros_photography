@@ -85,26 +85,35 @@ const Navbar = (props) => {
         </li>        
      
 
-        <li>
+        {/* <li>
           <Link href="/albums/matilda">
             <a>Matilda Little Jewellery</a>
           </Link>
-        </li>
+        </li> */}
         <li>
           <Link href="/albums/lookbook">
             <a>YNRY Lookbook</a>
           </Link>
         </li>
+
+        <li>
+          <Link href="/albums/wrangler">
+            <a>Wrangler x Soulkissesarts</a>
+          </Link>
+        </li> 
+
+        <li>
+          <Link href="/albums/denim">
+            <a>Denim Special</a>
+          </Link>
+        </li> 
+
         <li>
           <Link href="/albums/aperitif">
             <a>Volée Apéritif Naturell</a>
           </Link>
         </li>
-         <li>
-          <Link href="/albums/wrangler">
-            <a>Wrangler x Soulkissesarts</a>
-          </Link>
-        </li> 
+
         <br></br>
         <li>
           <Link href="/coming_soon">
