@@ -34,15 +34,22 @@ import Nav from 'react-bootstrap/Nav';
            <Nav.Link href="/albums/vice_strip">Stripperwars Playgirls Mansion - Vice </Nav.Link>
            <Nav.Link href="/albums/dress_to_kill"> Dress href Kill - Off The Rails Magazine </Nav.Link>
            <Nav.Link href="/albums/eagle_noir"> Eagle noir - Numéro Berlin </Nav.Link>
+           <Nav.Link href="/albums/keyi_magazine"> Play till the Down - Keyi Magazine </Nav.Link>
+
            <Nav.Link href="/albums/pandaland"> Pandaland - Nasty Magazine </Nav.Link>
            <Nav.Link href="/albums/edge"> The edge - Contributor Magazine </Nav.Link>
            <Nav.Link href="/albums/dscene"> I dance alone - Dscene Magazine </Nav.Link>
-           <Nav.Link href="/albums/cake"> Sundowner - Cake Magazine </Nav.Link>
+           <Nav.Link href="/albums/cake"> Last Sunbeams - Cake Magazine </Nav.Link>
+          
          <br></br>
-           <Nav.Link href="/albums/matilda"> Matilda Little Jewellery </Nav.Link>
+
+           <Nav.Link href="/albums/fenyx"> Fenyx Campaing </Nav.Link>
+           <Nav.Link href="/albums/herbert"> Deine Hand - Herbet Grönemeyer </Nav.Link>
+           {/* <Nav.Link href="/albums/matilda"> Matilda Little Jewellery </Nav.Link> */}
            <Nav.Link href="/albums/lookbook"> YNRY Lookbook </Nav.Link>
-           <Nav.Link href="/albums/aperitif"> Volée Apéritif Naturell </Nav.Link>
            <Nav.Link href="/albums/wrangler"> Wrangler x Soulkissesarts </Nav.Link>
+           <Nav.Link href="/albums/denim"> Denim Special </Nav.Link>
+           <Nav.Link href="/albums/aperitif"> Volée Apéritif Naturell </Nav.Link>
          <br></br>
            <Nav.Link href="/coming_soon"> GoSees (comming soon) </Nav.Link>
          <br></br>

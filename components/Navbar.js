@@ -44,7 +44,7 @@ const Navbar = (props) => {
           </Link>
         </li>
         <li>
-          <Link href="/albums/eagle_noir">
+          <Link href="/albums/keyi_magazine">
             <a>Play till the Down - Keyi Magazine</a>
           </Link>
         </li>
