@@ -72,7 +72,7 @@
   .carousel_container{
     padding: 0 0 0 0;
   }
-  .header {padding-top: 50px; }
+  .header {padding-top: 100px; }
 }
 
 
@@ -88,7 +88,7 @@
   .carousel_container{
     padding: 0 0 0 0;
   }
-  .header {padding-top: 50px}
+  .header {padding-top: 100px}
 }
 
 @media (max-width:661px) {
@@ -103,5 +103,5 @@
   .carousel_container{
     padding: 0 0 0 0;
   }
-  .header {padding-top: 50px}
+  .header {padding-top: 100px;}
 } 

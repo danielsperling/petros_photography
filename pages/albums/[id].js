@@ -29,13 +29,11 @@ const gallery = {
     ],
 
     "vice": [
-        "../vice/0.jpg",
         "../vice/1.jpg",
         "../vice/2.jpg",
         "../vice/3.jpg",
         "../vice/4.jpg",
         "../vice/5.jpg",
-        "../vice/5B.jpg",
         "../vice/6.jpg",
         "../vice/7.jpg",
         "../vice/8.jpg",
@@ -59,10 +57,7 @@ const gallery = {
         "../vice/27.jpg",
         "../vice/28.jpg",
         "../vice/29.jpg",
-        "../vice/30.jpg",
-        "../vice/31.jpg",
-        "../vice/32.jpg",
-        "../vice/44.jpg"
+        "../vice/30.jpg"
     ],
     "medusa": [
         "../medusa/1.jpg",
