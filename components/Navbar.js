@@ -103,7 +103,14 @@ const Navbar = (props) => {
           <Link href="/albums/wrangler">
             <a>Wrangler x Soulkissesarts</a>
           </Link>
-        </li>     
+        </li>   
+
+        
+        <li>
+          <Link href="/albums/denim">
+            <a>Denim Special</a>
+          </Link>
+        </li>   
      
 
    
@@ -113,12 +120,13 @@ const Navbar = (props) => {
           </Link>
         </li>
 
-
         <li>
-          <Link href="/albums/denim">
-            <a>Denim Special</a>
+          <Link href="/albums/tattoo">
+            <a>Tattoo Documentary</a>
           </Link>
-        </li> 
+        </li>
+
+
 
         <li>
           <Link href="/albums/aperitif">
@@ -126,10 +134,22 @@ const Navbar = (props) => {
           </Link>
         </li>
 
+        <li>
+          <Link href="/albums/kreuzberg">
+            <a>Der König von Kreuzberg</a>
+          </Link>
+        </li>
+
+        <li>
+          <Link href="/albums/bloodshrimp">
+            <a>Bloodshrimp</a>
+          </Link>
+        </li>
+
         <br></br>
         <li>
           <Link href="/coming_soon">
-            <a>GoSees (comming soon)</a>
+            <a>Nostalgia (comming soon)</a>
           </Link>
         </li>
         <br></br>
