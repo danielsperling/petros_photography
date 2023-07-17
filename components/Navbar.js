@@ -37,21 +37,25 @@ const Navbar = (props) => {
         </li>
 
         <li>
-          <Link href="/albums/vice_strip">
-            <a>Stripperwars Playgirls Mansion - Vice</a>
-          </Link>
-        </li>
-
-        <li>
           <Link href="/albums/eagle_noir">
             <a>Eagle noir - Numéro Berlin</a>
           </Link>
         </li>
+
         <li>
           <Link href="/albums/keyi_magazine">
             <a>Play till the Down - Keyi Magazine</a>
           </Link>
         </li>
+
+        <li>
+          <Link href="/albums/vice_strip">
+            <a>Stripperwars Playgirls Mansion - Vice</a>
+          </Link>
+        </li>
+
+  
+
         <li>
           <Link href="/albums/pandaland">
             <a>Pandaland - Nasty Magazine</a>
