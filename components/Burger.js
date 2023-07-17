@@ -45,11 +45,12 @@ import Nav from 'react-bootstrap/Nav';
           
          <br></br>
 
+           <Nav.Link href="/albums/matilda"> Matilda Little Jewellery </Nav.Link>
            <Nav.Link href="/albums/fenyx"> Fenyx Campaing </Nav.Link>
            <Nav.Link href="/albums/herbert"> Deine Hand - Herbet Grönemeyer </Nav.Link>
-           {/* <Nav.Link href="/albums/matilda"> Matilda Little Jewellery </Nav.Link> */}
-           <Nav.Link href="/albums/lookbook"> YNRY Lookbook </Nav.Link>
            <Nav.Link href="/albums/wrangler"> Wrangler x Soulkissesarts </Nav.Link>
+
+           <Nav.Link href="/albums/lookbook"> YNRY Lookbook </Nav.Link>
            <Nav.Link href="/albums/denim"> Denim Special </Nav.Link>
            <Nav.Link href="/albums/aperitif"> Volée Apéritif Naturell </Nav.Link>
          <br></br>

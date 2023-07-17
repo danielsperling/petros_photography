@@ -77,6 +77,12 @@ const Navbar = (props) => {
         <br></br>
 
         <li>
+          <Link href="/albums/matilda">
+            <a>Matilda Little Jewellery</a>
+          </Link>
+        </li>
+
+        <li>
           <Link href="/albums/fenyx">
             <a>Fenyx Campaing </a>
           </Link>
@@ -86,25 +92,23 @@ const Navbar = (props) => {
           <Link href="/albums/herbert">
             <a>Deine Hand - Herbet Grönemeyer </a>
           </Link>
-        </li>        
+        </li>    
+
+        
+        <li>
+          <Link href="/albums/wrangler">
+            <a>Wrangler x Soulkissesarts</a>
+          </Link>
+        </li>     
      
 
-        {/* <li>
-          <Link href="/albums/matilda">
-            <a>Matilda Little Jewellery</a>
-          </Link>
-        </li> */}
+   
         <li>
           <Link href="/albums/lookbook">
             <a>YNRY Lookbook</a>
           </Link>
         </li>
 
-        <li>
-          <Link href="/albums/wrangler">
-            <a>Wrangler x Soulkissesarts</a>
-          </Link>
-        </li> 
 
         <li>
           <Link href="/albums/denim">
