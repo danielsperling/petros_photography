@@ -11,26 +11,17 @@ const Navbar = (props) => {
             <a>Home</a>
           </Link>
         </li>
-        <br></br>
 
-        <li>
-          <Link href="/albums/vogue">
-            <a>Es ist ok / Mensch - Vogue Germany</a>
-          </Link>
-        </li>
+        <br></br>
         <li>
           <Link href="/albums/medusa">
             <a>Medusa - Hunger TV</a>
           </Link>
         </li>
+
         <li>
           <Link href="/albums/vice">
             <a>Bodybuilding Championship Germany - Vice</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/albums/vice_strip">
-            <a>Stripperwars Playgirls Mansion - Vice</a>
           </Link>
         </li>
         <li>
@@ -38,6 +29,19 @@ const Navbar = (props) => {
             <a>Dress to Kill - Off The Rails Magazine</a>
           </Link>
         </li>
+
+        <li>
+          <Link href="/albums/vogue">
+            <a>Es ist ok / Mensch - Vogue Germany</a>
+          </Link>
+        </li>
+
+        <li>
+          <Link href="/albums/vice_strip">
+            <a>Stripperwars Playgirls Mansion - Vice</a>
+          </Link>
+        </li>
+
         <li>
           <Link href="/albums/eagle_noir">
             <a>Eagle noir - Numéro Berlin</a>

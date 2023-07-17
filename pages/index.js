@@ -32,21 +32,18 @@ const gallery = {
 		"../home/21.jpg",
 		"../home/22.jpg",
 		"../home/23.jpg",
+		"../home/24.jpg",
 		"../home/25.jpg",
-		"../home/26.jpg",
-		"../home/27.jpg",
-		"../home/28.jpg",
-		"../home/29.jpg",
-		"../home/30.jpg",
+		"../home/26.jpg"
 
 	]
 }
 
 const Home = () => {
-	const router = useRouter()
-	useEffect(() => {
-		disableRightClick();
-	  }, []);
+	// const router = useRouter()
+	// useEffect(() => {
+	// 	disableRightClick();
+	//   }, []);
 	
 	const id = "home"
 	const galleryIds = Object.keys(gallery)
