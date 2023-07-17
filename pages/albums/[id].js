@@ -211,28 +211,26 @@ const gallery = {
     ],
 
     "edge": [
-        "../edge/Nikolas_Androbik_01.jpg",
-        "../edge/Nikolas_Androbik_02.jpg",
-        "../edge/Nikolas_Androbik_04.jpg",
-        "../edge/Nikolas_Androbik_05.jpg",
-        "../edge/Nikolas_Androbik_06.jpg",
-        "../edge/Nikolas_Androbik_07.jpg",
-        "../edge/Nikolas_Androbik_08.jpg",
-        "../edge/Nikolas_Androbik_09.jpg",
-        "../edge/Nikolas_Androbik_10.jpg",
-        "../edge/Nikolas_Androbik_12.jpg",
-        "../edge/Nikolas_Androbik_14.jpg",
-        "../edge/Nikolas_Androbik_15.jpg",
-        "../edge/Nikolas_Androbik_16.jpg",
-        "../edge/Nikolas_Androbik_17.jpg",
-        "../edge/Nikolas_Androbik_19a.jpg",
-        "../edge/Nikolas_Androbik_20.jpg",
-        "../edge/Nikolas_Androbik_21.jpg",
-        "../edge/Nikolas_Androbik_22.jpg",
-        "../edge/Nikolas_Androbik_23.jpg",
-        "../edge/Nikolas_Androbik_24.jpg",
-        "../edge/Nikolas_Androbik_25.jpg",
-        "../edge/Nikolas_Androbik_26.jpg"
+        "../edge/1.jpg",
+        "../edge/2.jpg",
+        "../edge/3.jpg",
+        "../edge/4.jpg",
+        "../edge/5.jpg",
+        "../edge/6.jpg",
+        "../edge/7.jpg",
+        "../edge/8.jpg",
+        "../edge/9.jpg",
+        "../edge/10.jpg",
+        "../edge/11.jpg",
+        "../edge/12.jpg",
+        "../edge/13.jpg",
+        "../edge/14.jpg",
+        "../edge/15.jpg",
+        "../edge/16.jpg",
+        "../edge/17.jpg",
+        "../edge/18.jpg",
+        "../edge/19.jpg",
+
     ],
 
     "dscene": [
@@ -256,18 +254,18 @@ const gallery = {
     ],
 
     "cake": [
-        "../cake/A.jpg",
-        "../cake/B.jpg",
-        "../cake/C.jpg",
-        "../cake/D.jpg",
-        "../cake/E.jpg",
-        "../cake/F.jpg",
-        "../cake/G.jpg",
-        "../cake/H.jpg",
-        "../cake/J.jpg",
-        "../cake/K.jpg",
-        "../cake/L.jpg",
-        "../cake/TIA_MAMIYA_4aaa.jpg",
+        "../cake/1.jpg",
+        "../cake/2.jpg",
+        "../cake/3.jpg",
+        "../cake/4.jpg",
+        "../cake/5.jpg",
+        "../cake/6.jpg",
+        "../cake/7.jpg",
+        "../cake/8.jpg",
+        "../cake/9.jpg",
+        "../cake/10.jpg",
+        "../cake/11.jpg",
+        "../cake/12.jpg"
     ],
 
     "aperitif": [
@@ -294,27 +292,25 @@ const gallery = {
         "../wrangler/5.jpg",
         "../wrangler/6.jpg",
         "../wrangler/7.jpg",
-        "../wrangler/7a.jpg",
+        "../wrangler/8.jpg",
+        "../wrangler/9.jpg",
         "../wrangler/10.jpg",
-        "../wrangler/10(1).jpg",
         "../wrangler/11.jpg",
         "../wrangler/12.jpg",
         "../wrangler/13.jpg",
         "../wrangler/14.jpg",
         "../wrangler/15.jpg",
         "../wrangler/16.jpg",
+        "../wrangler/17.jpg",
         "../wrangler/18.jpg",
+        "../wrangler/19.jpg",
         "../wrangler/20.jpg",
         "../wrangler/21.jpg",
         "../wrangler/22.jpg",
+        "../wrangler/23.jpg",
         "../wrangler/24.jpg",
         "../wrangler/25.jpg",
-        "../wrangler/26.jpg",
-        "../wrangler/27.jpg",
-        "../wrangler/28.jpg",
-        "../wrangler/29.jpg",
-        "../wrangler/30.jpg",
-        "../wrangler/31.jpg"
+        "../wrangler/26.jpg"
     ],
     
     "keyi_magazine": [
@@ -330,7 +326,7 @@ const gallery = {
         "../keyi_magazine/11.jpg",
         "../keyi_magazine/12.jpg",
         "../keyi_magazine/13.jpg",
-        "../keyi_magazine/14.jpg",
+        "../keyi_magazine/14.jpg"
     ],
 
     "fenyx": [
@@ -343,7 +339,10 @@ const gallery = {
         "../fenyx/8.jpg",
         "../fenyx/9.jpg",
         "../fenyx/11.jpg",
-        "../fenyx/All_0.jpg",
+        "../fenyx/12.jpg",
+        "../fenyx/13.jpg",
+        "../fenyx/14.jpg"
+        
     ],
 
     "herbert": [
@@ -351,7 +350,9 @@ const gallery = {
         "../herbert/2.jpg",
         "../herbert/3.jpg",
         "../herbert/4.jpg",
-        "../herbert/5.jpg"
+        "../herbert/5.jpg",
+        "../herbert/6.jpg",
+        "../herbert/7.jpg"
     ],
 
     "denim": [
