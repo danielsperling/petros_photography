@@ -50,12 +50,17 @@ import Nav from 'react-bootstrap/Nav';
            <Nav.Link href="/albums/fenyx"> Fenyx Campaing </Nav.Link>
            <Nav.Link href="/albums/herbert"> Deine Hand - Herbet Grönemeyer </Nav.Link>
            <Nav.Link href="/albums/wrangler"> Wrangler x Soulkissesarts </Nav.Link>
+           <Nav.Link href="/albums/denim"> Denim Special </Nav.Link>
 
            <Nav.Link href="/albums/lookbook"> YNRY Lookbook </Nav.Link>
-           <Nav.Link href="/albums/denim"> Denim Special </Nav.Link>
+           <Nav.Link href="/albums/tattoo"> Tattoo Documentary </Nav.Link>
+
            <Nav.Link href="/albums/aperitif"> Volée Apéritif Naturell </Nav.Link>
+           <Nav.Link href="/albums/kreuzberg"> Der König von Kreuzberg </Nav.Link>
+           <Nav.Link href="/albums/bloodshrimp"> Bloodshrimp </Nav.Link>
+
          <br></br>
-           <Nav.Link href="/coming_soon"> GoSees (comming soon) </Nav.Link>
+           <Nav.Link href="/coming_soon"> Nostalgia (comming soon) </Nav.Link>
          <br></br>
          <br></br>
          <Nav.Link href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact </Nav.Link>
