@@ -38,7 +38,7 @@ const Navbar = (props) => {
 
         <li>
           <Link href="/albums/eagle_noir">
-            <a>Eagle noir - Numéro Berlin</a>
+            <a>Eagle Noir - Numéro Berlin</a>
           </Link>
         </li>
 
@@ -63,12 +63,12 @@ const Navbar = (props) => {
         </li>
         <li>
           <Link href="/albums/edge">
-            <a>The edge - Contributor Magazine</a>
+            <a>The Edge - Contributor Magazine</a>
           </Link>
         </li>
         <li>
           <Link href="/albums/dscene">
-            <a>I dance alone - Dscene Magazine</a>
+            <a>I Dance Alone - Dscene Magazine</a>
           </Link>
         </li>
         <li>
@@ -88,7 +88,7 @@ const Navbar = (props) => {
 
         <li>
           <Link href="/albums/fenyx">
-            <a>Fenyx Campaing </a>
+            <a>Fenyx </a>
           </Link>
         </li>   
 

@@ -10,8 +10,8 @@ export const About = (props) => {
                 Nikolas-Petros Androbik 
             </h2>
             <h2>     
-                Marchlewskistraße 93
-                10243 Berlin,Germany
+                Marchlewskistraße 93,
+                10243 Berlin (Germany)
             </h2>
             <h2>
                 E-Mail: niko.androbik@gmail.com

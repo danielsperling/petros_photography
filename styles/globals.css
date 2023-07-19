@@ -1,7 +1,6 @@
 html,
 body {
-  padding-right: 30px;
-  padding-left: 30px;
+
   margin: 0;
   font-size: 11px !important;
   line-height: 17px !important;
@@ -47,6 +46,8 @@ h5 {
   --bs-nav-link-padding-x: 1;
   --bs-nav-link-padding-y: 1rem;
 }
+
+
 
 
 
