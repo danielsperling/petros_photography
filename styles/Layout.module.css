@@ -13,7 +13,7 @@
 }
 
 .footer {
-  padding: 30px 0 0 35px;
+  padding: 15px 0 0 35px;
   text-align: left;
   color: #f8f9fa;
   width: calc(50% - 1px);
@@ -22,7 +22,7 @@
 }
 
 .footerright{
-  padding: 30px 20px 0 0;
+  padding: 15px 20px 0 0;
   /* border: solid 5px red; */
   text-align: right;
   color: #f8f9fa;
@@ -57,7 +57,7 @@
   display: flex;
   justify-content: center;
   flex-grow: 4;
-  padding: 70px 130px 0 0px;
+  padding: 70px 72px 0 0px;
   /* border: solid 5px green */
 }
 
@@ -88,6 +88,7 @@
   display: flex;
   background: #000;
   width: 100%;
+  height: 50px;
   
 }
 
@@ -105,8 +106,8 @@
 @media (max-width:380px)    {
   .navbar_container {display: none;}
   .header {color: black;}
-  .footer {padding: 0 0 0 0 !important;
-          position: fixed;
+  .footer {
+          
           bottom: 0;
           margin-right: 60px;
           color: black;
@@ -122,19 +123,22 @@
   /* .header {padding-top: 100px; } */
   .top { background: white;
     display: flex; }
-  .bottom { background: white; }
+  .bottom { background: white;
+            display: flex; }
 }
 
 
 @media (max-width:481px) {
   .navbar_container {display: none;}
   .header {color: black;}
-  .footer {padding: 0 0 0 0 !important;
-          position: fixed;
+  .footer {
           bottom: 0;
           margin-right: 60px;
-          color: black;}
-  .footerright { color: black;}
+          color: black;
+          width: calc(50% - 1px);}
+  .footerright { color: black; 
+    width: calc(50% - 1px);}
+  
   .h5 { font-size: 5px;}
   .mb-3 { position: fixed;
         right: 0; }
@@ -144,18 +148,22 @@
   /* .header {padding-top: 100px} */
   .top { background: white;
     display: flex; }
-  .bottom { background: white; }
+  .bottom { background: white;
+            display: flex; }
 }
 
 @media (max-width:661px) {
   .navbar_container {display: none;}
   .header {color: black;}
-  .footer {padding: 0 0 0 0 !important;
-          position: fixed;
+  .footer {
           bottom: 0;
           margin-right: 60px;
-          color: black;}
-  .footerright { color: black;}
+          color: black;
+          width: calc(50% - 1px);}
+        
+  .footerright { color: black;
+    width: calc(50% - 1px);}
+  
   .h5 { font-size: 5px;}
   .mb-3 { position: fixed;
         right: 0; }
@@ -165,5 +173,6 @@
   /* .header {padding-top: 100px;} */
   .top { background: white;
     display: flex; }
-  .bottom { background: white; }
+  .bottom { background: white;
+             display: flex;}
 } 
