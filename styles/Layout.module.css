@@ -108,7 +108,7 @@
   .header {color: black;}
   .footer {
           
-          bottom: 0;
+        
           padding: 15px 0 0 0;
           /* margin-right: 60px; */
           color: black;
@@ -120,12 +120,14 @@
         right: 0; }
   .carousel_container{
     padding: 0 0 0 0;
+    flex: 1;
   }
   /* .header {padding-top: 100px; } */
   .top { background: white;
     display: flex; }
   .bottom { background: white;
             display: flex; }
+  .carousel_container { flex: 1}
 }
 
 
@@ -133,7 +135,7 @@
   .navbar_container {display: none;}
   .header {color: black;}
   .footer {
-          bottom: 0;
+         
           padding: 15px 0 0 0;
           /* margin-right: 60px; */
           color: black;
@@ -146,19 +148,21 @@
         right: 0; }
   .carousel_container{
     padding: 0 0 0 0;
+    flex: 1;
   }
   /* .header {padding-top: 100px} */
   .top { background: white;
     display: flex; }
   .bottom { background: white;
             display: flex; }
+  .carousel_container { flex: 1}
 }
 
 @media (max-width:661px) {
   .navbar_container {display: none;}
   .header {color: black;}
   .footer {
-          bottom: 0;
+      
           padding: 15px 0 0 0;
           /* margin-right: 60px; */
           color: black;
@@ -171,11 +175,14 @@
   .mb-3 { position: fixed;
         right: 0; }
   .carousel_container{
+    flex: 1;
     padding: 0 0 0 0;
   }
   /* .header {padding-top: 100px;} */
   .top { background: white;
     display: flex; }
   .bottom { background: white;
-             display: flex;}
+             display: flex;
+            }
+  .carousel_container { flex: 1}
 } 
