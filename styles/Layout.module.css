@@ -104,6 +104,7 @@
 
 
 @media (max-width:380px)    {
+  .body {  overflow: hidden;}
   .navbar_container {display: none;}
   .header {color: black;}
   .footer {
@@ -129,6 +130,7 @@
 
 
 @media (max-width:481px) {
+  .body {  overflow: hidden;}
   .navbar_container {display: none;}
   .header {color: black;}
   .footer {
@@ -153,6 +155,7 @@
 }
 
 @media (max-width:661px) {
+  .body {  overflow: hidden;}
   .navbar_container {display: none;}
   .header {color: black;}
   .footer {
