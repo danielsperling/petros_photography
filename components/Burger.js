@@ -60,8 +60,11 @@ import Nav from 'react-bootstrap/Nav';
            <Nav.Link href="/albums/bloodshrimp"> Bloodshrimp </Nav.Link>
 
          <br></br>
-           <Nav.Link href="/coming_soon"> Nostalgia (comming soon) </Nav.Link>
+           <Nav.Link href="/albums/nostalgia"> Nostalgia </Nav.Link>
          <br></br>
+         {/* <br></br>
+           <Nav.Link href="/coming_soon"> Nostalgia (comming soon) </Nav.Link>
+         <br></br> */}
          <br></br>
          <Nav.Link href="mailto:niko.androbik@gmail.com" rel="noopener noreferrer"  target="_blank">contact </Nav.Link>
          <Nav.Link href="https://www.instagram.com/androbik/" rel="noopener noreferrer"  target="_blank"> instagram </Nav.Link>
