@@ -433,6 +433,30 @@ const gallery = {
         "../tattoo/26.jpg"
     ],
 
+    "nostalgia": [
+        "../nostalgia/1.jpg",
+        "../nostalgia/2.jpg",
+        "../nostalgia/3.jpg",
+        "../nostalgia/4.jpg",
+        "../nostalgia/5.jpg",
+        "../nostalgia/6.jpg",
+        "../nostalgia/7.jpg",
+        "../nostalgia/8.jpg",
+        "../nostalgia/9.jpg",
+        "../nostalgia/10.jpg",
+        "../nostalgia/11.jpg",
+        "../nostalgia/12.jpg",
+        "../nostalgia/13.jpg",
+        "../nostalgia/14.jpg",
+        "../nostalgia/15.jpg",
+        "../nostalgia/16.jpg",
+        "../nostalgia/17.jpg",
+        "../nostalgia/18.jpg",
+        "../nostalgia/19.jpg",
+        "../nostalgia/20.jpg",
+        "../nostalgia/21.jpg"
+    ]
+
 }
 
 

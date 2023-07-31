@@ -148,10 +148,16 @@ const Navbar = (props) => {
 
         <br></br>
         <li>
+          <Link href="/albums/nostalgia">
+            <a>Nostalgia </a>
+          </Link>
+        </li>
+
+        {/* <li>
           <Link href="/coming_soon">
             <a>Nostalgia (comming soon)</a>
           </Link>
-        </li>
+        </li> */}
         <br></br>
         <br></br>
         <li>
